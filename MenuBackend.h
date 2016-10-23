@@ -32,7 +32,7 @@
 #ifndef MenuBackend_h
 #define MenuBackend_h
 
-#include <Arduino.h>
+#include <application.h>
 #include <String.h>
 
 /*
